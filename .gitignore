@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large datasets
+data/
+dataset/
+pneumonia-1/
+
+# Trained model files
+*.keras
+*.h5
+*.hdf5
+
+# Training artifacts
+*.pkl
+
+# Google/Colab
+.drive/
